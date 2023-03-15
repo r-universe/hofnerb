@@ -1,10 +1,10 @@
 [
   {
-    "package": "papeR",
+    "package": "stabs",
     "oncran": true
   },
   {
-    "package": "stabs",
+    "package": "papeR",
     "oncran": true
   }
 ]
